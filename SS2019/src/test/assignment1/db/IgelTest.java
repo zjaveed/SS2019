@@ -1,11 +1,11 @@
-package test;
+package assignment1.db;
 
-
-import source.Igel;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import assignment1.app.Igel;
 
 class IgelTest {
 

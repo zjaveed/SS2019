@@ -1,12 +1,12 @@
-package test;
+package assignment1.db;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import source.DBFeldFix;
-import source.Igel;
+import assignment1.app.Igel;
+
 
 class DBFeldFixTest {
 
@@ -30,7 +30,7 @@ class DBFeldFixTest {
 		Igel s = new Igel(11,12);
 		a.appendLast(o);
 		
-		ass
+		
 		
 	}
 
